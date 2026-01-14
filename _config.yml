@@ -18,7 +18,7 @@ tagline: Physical Hydrogeology II
 description: A course website for HWRS 561b Physical Hydrogeology II at the University of Arizona
 author: Bo Guo
 # baseurl: '/GuoPorousMediaLab/HWRS505-405-2023Fall' # the subpath of your site, e.g. /blog
-url: 'https://github.com/GuoPorousMediaLab/HWRS561b-2026Spring'
+url: 'https://github.com/boguoporousmedia/HWRS561b-2026Spring'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -33,7 +33,7 @@ aux_links:
 # Sidian Chen:
 #   - 'https://sidianchen.github.io/'
   HWRS 561b on GitHub:
-    - 'https://github.com/GuoPorousMediaLab/HWRS561b-2026Spring'
+    - 'https://github.com/boguoporousmedia/HWRS561b-2026Spring'
 footer_content:
 
 # Collections for website data
