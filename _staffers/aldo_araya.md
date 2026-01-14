@@ -2,8 +2,8 @@
 name: Aldo Andres Tapia Araya
 role: Teaching Assistant
 email: aldotapia@arizona.edu
-website: https://guolab.arizona.edu/people.html
-photo: jianwen_du.PNG
+website: https://has.arizona.edu/person/aldo-andres-tapia-araya
+photo: aldo_Tapia_Araya.jpg
 meta:
   Office Hours: TBD
 ---
