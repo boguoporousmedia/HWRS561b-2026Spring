@@ -1,8 +1,7 @@
 ---
 title: Week 01
+module: Module 1: Solute transport in saturated media
 ---
-
-### Module 1: Solute transport in saturated media
 
 Jan 12
 : Field trip - No class

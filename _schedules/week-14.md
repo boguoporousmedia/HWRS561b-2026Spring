@@ -1,8 +1,7 @@
 ---
 title: Week 14
+module: Module 4: Risk assessment of contaminant transport in the vadose zone and groundwater
 ---
-
-### Module 4: Risk assessment of contaminant transport in the vadose zone and groundwater
 
 Apr 13
 : Transport of pesticides/nutrients in the vadose zone.
@@ -11,7 +10,7 @@ Apr 15
 : Transport of pesticides/nutrients in the vadose zone.
 
 Apr 16
-: Homework due
+: **Homework due (no lecture)**
 : **Due**{: .label .label-purple} HW 7: Contaminant transport
 
 Apr 17

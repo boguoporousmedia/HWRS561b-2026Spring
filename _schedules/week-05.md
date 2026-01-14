@@ -1,20 +1,19 @@
 ---
 title: Week 05
+module: Module 2: Pore-scale controls and macroscopic description of variably saturated flow
 ---
-
-### Module 2: Pore-scale controls and macroscopic description of variably saturated flow
 
 Feb 9
 : Pore-scale fluids distribution (capillary tubes)
 
 Feb 10
-: Special lecture (9:30 am - 10:20 am)
+: Special lecture (9:30 am - 10:20 am): Pore-scale fluids distribution (capillary tubes)
 
 Feb 11
 : Pore-scale fluids distribution (capillary tubes)
 
 Feb 12
-: Homework due
+: **Homework due (no lecture)**
 : **Due**{: .label .label-purple} HW 2: Solute transport 2
 
 Feb 13
