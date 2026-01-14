@@ -11,5 +11,3 @@ Mar 4
 
 Mar 6
 : Steady-state 1D unsaturated flow.
-
-Lecture slides: [PDF]()

@@ -10,5 +10,3 @@ Apr 22
 
 Apr 24
 : Transport of PFAS in the vadose zone.
-
-Lecture slides: [PDF]()

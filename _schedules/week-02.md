@@ -10,5 +10,3 @@ Jan 21
 
 Jan 23
 : Conservative solute transport: Pore-scale controls, macroscopic formulation, governing equations, BCs, 1D Taylor-Aris dispersion
-
-Lecture slides: [PDF]()

@@ -7,16 +7,10 @@ Feb 9
 : Pore-scale fluids distribution (capillary tubes)
 
 Feb 10
-: Special lecture (9:30 am - 10:20 am): Pore-scale fluids distribution (capillary tubes)
+: Special lecture: Pore-scale fluids distribution (capillary tubes)
 
 Feb 11
 : Pore-scale fluids distribution (capillary tubes)
 
-Feb 12
-: **Homework due (no lecture)**
-: **Due**{: .label .label-purple} HW 2: Solute transport 2
-
 Feb 13
 : No class (Bo traveling)
-
-Lecture slides: [PDF]()

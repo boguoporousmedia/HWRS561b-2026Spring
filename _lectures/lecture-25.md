@@ -1,7 +1,7 @@
 ---
-title: "Lecture #25: Midterm exam (oral)"
+title: "Lecture #25: Transient 1D unsaturated flow. Simplified models (Green-Ampt, Philip's models)"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Mar 20, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Mar 25, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

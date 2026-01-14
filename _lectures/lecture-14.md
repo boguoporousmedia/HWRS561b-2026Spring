@@ -1,7 +1,7 @@
 ---
-title: "Lecture #14: Macroscopic descriptions of air/water distribution"
+title: "Lecture #14: Two-phase flow. Richards' assumptions; Richards' equation"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Feb 18, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon, Feb 23, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

@@ -1,7 +1,7 @@
 ---
-title: "Lecture #08: Reactive solute transport: retardation, kinetic/equilibrium adsorption"
+title: "Lecture #08: Pore-scale fluids distribution (capillary tubes)"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Feb 4, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon, Feb 9, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

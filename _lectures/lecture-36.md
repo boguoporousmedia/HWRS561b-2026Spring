@@ -1,7 +1,7 @@
 ---
-title: "Lecture #36: Transport of pesticides/nutrients in the vadose zone"
+title: "Lecture #36: Transport of PFAS in the vadose zone"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Apr 17, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Apr 22, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

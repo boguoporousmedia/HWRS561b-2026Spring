@@ -1,7 +1,7 @@
 ---
-title: "Lecture #07: Special lecture: Conservative solute transport: Analytical solutions, breakthrough curves"
+title: "Lecture #07: Reactive solute transport: Analytical solutions, breakthrough curves"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tue, Feb 3, 9:30 am – 11:10 am (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Feb 6, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

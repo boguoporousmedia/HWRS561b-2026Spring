@@ -1,7 +1,7 @@
 ---
-title: "Lecture #03: Conservative solute transport: Pore-scale controls, macroscopic formulation, governing equations, BCs, 1D Taylor-Aris dispersion"
+title: "Lecture #03: Conservative solute transport: Analytical solutions, breakthrough curves"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Jan 21, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon, Jan 26, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

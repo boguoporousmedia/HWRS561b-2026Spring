@@ -1,7 +1,7 @@
 ---
-title: "Lecture #11: Special lecture: Pore-scale fluids distribution (capillary tubes)"
+title: "Lecture #11: Macroscopic descriptions of air/water distribution"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tue, Feb 10, 9:30 am – 10:20 am (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon, Feb 16, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

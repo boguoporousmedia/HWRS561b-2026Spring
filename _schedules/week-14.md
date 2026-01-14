@@ -9,11 +9,5 @@ Apr 13
 Apr 15
 : Transport of pesticides/nutrients in the vadose zone.
 
-Apr 16
-: **Homework due (no lecture)**
-: **Due**{: .label .label-purple} HW 7: Contaminant transport
-
 Apr 17
 : Transport of pesticides/nutrients in the vadose zone.
-
-Lecture slides: [PDF]()
