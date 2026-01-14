@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: HWRS 405/505
-tagline: Course websites
-description: A course website for HWRS 405/505 Vadoes zone hydrology at the University of Arizona
-author: Bo Guo and Sidian Chen
+title: HWRS 561b
+tagline: Physical Hydrogeology II
+description: A course website for HWRS 561b Physical Hydrogeology II at the University of Arizona
+author: Bo Guo
 # baseurl: '/GuoPorousMediaLab/HWRS505-405-2023Fall' # the subpath of your site, e.g. /blog
-url: 'https://github.com/GuoPorousMediaLab/HWRS505-405-2023Fall'  
+url: 'https://github.com/GuoPorousMediaLab/HWRS561b-2026Spring'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -32,8 +32,8 @@ aux_links:
 #   - 'https://guolab.arizona.edu/'
 # Sidian Chen:
 #   - 'https://sidianchen.github.io/'
-  HWRS 405/505 on GitHub:
-    - 'https://github.com/GuoPorousMediaLab/HWRS505-405-2023Fall'
+  HWRS 561b on GitHub:
+    - 'https://github.com/GuoPorousMediaLab/HWRS561b-2026Spring'
 footer_content:
 
 # Collections for website data

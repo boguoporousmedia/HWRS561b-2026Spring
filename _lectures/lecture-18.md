@@ -1,8 +1,7 @@
 ---
-title: "Lecture #18: Mid-term review"
+title: "Lecture #18: Two-phase flow. Richards' assumptions; Richards' equation"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thu, Oct 24, 11:00 am – 12:15 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Feb 25, 2:00 pm – 2:50 pm (Bo Guo)
 
-- [Lecture slides: [PDF]](../assets/lecture_slides/Lecture_18_(10-24-2024).pdf) 
-- [Recording: [video - not available]]()
+- [Recording: [Video]]()

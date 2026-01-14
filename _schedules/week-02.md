@@ -2,11 +2,13 @@
 title: Week 02
 ---
 
-Sep 3
-: [Transient saturated flow; saturated solute transport](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [Lecture note #02](https://d2l.arizona.edu/d2l/le/content/1506694/Home)
+Jan 19
+: No class (holiday)
 
-Sep 5
-: [Saturated solute transport](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [Lecture note #03](https://d2l.arizona.edu/d2l/le/content/1506694/Home)
-: **Release**{: .label .label-purple }[**HW #1**](https://d2l.arizona.edu/d2l/le/content/1506694/Home)
+Jan 21
+: Conservative solute transport: Pore-scale controls, macroscopic formulation, governing equations, BCs, 1D Taylor-Aris dispersion
+
+Jan 23
+: Conservative solute transport: Pore-scale controls, macroscopic formulation, governing equations, BCs, 1D Taylor-Aris dispersion
+
+Lecture slides: [PDF]()

@@ -2,11 +2,16 @@
 title: Week 07
 ---
 
-Oct 8
-: [Transient unsaturated flow (a)](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [J&H Ch 3](https://d2l.arizona.edu/d2l/le/content/1506694/Home)
+Feb 23
+: Two-phase flow. Richards' assumptions; Richards' equation.
 
-Oct 10
-: *No class (Remembering Prof. Tom Meixner*)
-  : [](#)
+Feb 24
+: Special lecture (9:30 am - 10:20 am)
 
+Feb 25
+: Two-phase flow. Richards' assumptions; Richards' equation.
+
+Feb 27
+: Two-phase flow. Richards' assumptions; Richards' equation.
+
+Lecture slides: [PDF]()

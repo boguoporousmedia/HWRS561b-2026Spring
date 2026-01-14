@@ -2,11 +2,17 @@
 title: Week 06
 ---
 
-Oct 1
-: [Numerical solution of steady-state unsat. flow (a)](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [Lecture note #09](https://d2l.arizona.edu/d2l/le/content/1506694/Home)
-: **Release**{: .label .label-purple}[**HW #03**](#)
+Feb 16
+: Macroscopic descriptions of air/water distribution
 
-Oct 3
-: [Numerical solution of steady-state unsat. flow (b)](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [](#)
+Feb 18
+: Macroscopic descriptions of air/water distribution
+
+Feb 19
+: Homework due
+: **Due**{: .label .label-purple} HW 3: Pore-scale fluids distribution
+
+Feb 20
+: Macroscopic descriptions of air/water distribution
+
+Lecture slides: [PDF]()

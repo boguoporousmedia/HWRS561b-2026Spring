@@ -1,8 +1,7 @@
 ---
-title: "Lecture #02: Steady-state saturated flow"
+title: "Lecture #02: Conservative solute transport: Pore-scale controls, macroscopic formulation, governing equations, BCs, 1D Taylor-Aris dispersion"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thu, Aug 29, 11:00 am – 12:15 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Jan 16, 2:00 pm – 2:50 pm (Bo Guo)
 
-- [Lecture slides: [PDF]](../assets/lecture_slides/Lecture_2_(8-29-2024).pdf) 
-- [Recording: [Video]](https://arizona.zoom.us/rec/share/07Fn-FV3abhaVYv6oweVPEzq63AjL48kyiHkBzSSQydheJnSoRjPuul0UnE5bd27.ByOd6db-TL8ZViB4?startTime=1724954312000)
+- [Recording: [Video]]()

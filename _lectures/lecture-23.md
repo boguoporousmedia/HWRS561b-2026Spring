@@ -1,8 +1,7 @@
 ---
-title: "Lecture #23: Transport of PFAS under unsat. flow"
+title: "Lecture #23: Steady state unsaturated flow in multiple dimensions and with heterogeneities"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tu, Nov 19, 11:00 am – 12:15 pm (Jianwen Du)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon, Mar 16, 2:00 pm – 2:50 pm (Bo Guo)
 
-- [Lecture slides: [PDF]](../assets/lecture_slides/Lecture_23_(11-19-2024).pdf) 
-- [Recording: [video - not available]]()
+- [Recording: [Video]]()

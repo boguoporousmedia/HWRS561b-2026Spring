@@ -2,11 +2,22 @@
 title: Week 05
 ---
 
-Sep 24
-: [Richards’ assumptions; Richards’ Equation](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [P&C Ch 11](https://d2l.arizona.edu/d2l/le/content/1506694/Home)
+Module 2: Pore-scale controls and macroscopic description of variably saturated flow
 
-Sep 26
-: [Steady-state unsaturated flow](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [Lecture note #08](https://d2l.arizona.edu/d2l/le/content/1506694/Home)
-: **Due**{: .label .label-purple}[**HW #2**](#)
+Feb 9
+: Pore-scale fluids distribution (capillary tubes)
+
+Feb 10
+: Special lecture (9:30 am - 10:20 am)
+
+Feb 11
+: Pore-scale fluids distribution (capillary tubes)
+
+Feb 12
+: Homework due
+: **Due**{: .label .label-purple} HW 2: Solute transport 2
+
+Feb 13
+: No class (Bo traveling)
+
+Lecture slides: [PDF]()

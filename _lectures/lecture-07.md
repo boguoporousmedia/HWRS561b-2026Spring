@@ -1,8 +1,7 @@
 ---
-title: "Lecture #07: Porous medium models and characteristic curves"
+title: "Lecture #07: Special lecture"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tu, Sep 17, 11:00 am – 12:15 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tue, Feb 3, 9:30 am – 11:10 am (Bo Guo)
 
-- [Lecture slides: [PDF]](../assets/lecture_slides/Lecture_7_(9-17-2024).pdf)
-- [Recording: [Video]](https://arizona.zoom.us/rec/share/9fDGlc5O_0t52JjjtrRHeIhSPK5ipDq0tJUsEVcN_acPmlehdWVld4tr5MuzjmQY.LtwtMvS9wkEwVYJi?startTime=1726596022000)
+- [Recording: [Video]]()

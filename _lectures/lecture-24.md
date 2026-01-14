@@ -1,8 +1,7 @@
 ---
-title: "Lecture #24: Fluid-fluid interfacial area"
+title: "Lecture #24: Steady state unsaturated flow in multiple dimensions and with heterogeneities"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thu, Nov 21, 11:00 am – 12:15 pm (Jianwen Du)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Mar 18, 2:00 pm – 2:50 pm (Bo Guo)
 
-- [Lecture slides: [PDF]](../assets/lecture_slides/Lecture_24_(11-21-2024).pdf) 
-- [Recording: [video - not available]]()
+- [Recording: [Video]]()

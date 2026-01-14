@@ -1,8 +1,7 @@
 ---
-title: "Lecture #21: Parameter estimation (HYDRUS)"
+title: "Lecture #21: Steady-state 1D unsaturated flow"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tu, Nov 12, 11:00 am – 12:15 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Mar 4, 2:00 pm – 2:50 pm (Bo Guo)
 
-- [Lecture slides: [PDF]](../assets/lecture_slides/Lecture_21_(11-12-2024).pdf) 
-- [Recording: [video - not available]]()
+- [Recording: [Video]]()

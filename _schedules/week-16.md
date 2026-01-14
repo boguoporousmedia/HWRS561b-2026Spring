@@ -2,10 +2,13 @@
 title: Week 16
 ---
 
-Dec 10
-: [*No class (review for final exam)*](#)
-  : [](#)
+Apr 27
+: Transport of PFAS in the vadose zone.
 
-Dec 16
-: [Final Exam](#)
-  : [Time & Location (2-4 pm in Harshbarger 203)](#)
+Apr 29
+: Transport of PFAS in the vadose zone.
+
+May 1
+: Transport of PFAS in the vadose zone.
+
+Lecture slides: [PDF]()

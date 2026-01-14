@@ -2,12 +2,20 @@
 title: Week 04
 ---
 
-Sep 17
-: [Porous medium models and characteristic curves](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [J&H Ch 3](https://d2l.arizona.edu/d2l/le/content/1506694/Home)
-: **Due**{: .label .label-purple}[**HW #1**](#)
+Feb 2
+: Conservative solute transport: Analytical solutions, breakthrough curves.
 
-Sep 19
-: [Macroscopic description of two-phase flow](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [P&C Ch 11](https://d2l.arizona.edu/d2l/le/content/1506694/Home)
-: **Release**{: .label .label-purple}[**HW #2**](#)
+Feb 3
+: Special lecture (9:30 am - 11:10 am)
+
+Feb 4
+: Reactive solute transport: retardation, kinetic/equilibrium adsorption
+
+Feb 5
+: Homework due
+: **Due**{: .label .label-purple} HW 1: Solute transport 1
+
+Feb 6
+: Reactive solute transport: Analytical solutions, breakthrough curves.
+
+Lecture slides: [PDF]()

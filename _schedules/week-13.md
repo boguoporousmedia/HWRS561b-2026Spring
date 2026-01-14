@@ -2,12 +2,17 @@
 title: Week 13
 ---
 
-Nov 19
-: [Introduction to PFAS](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [](#)
+Apr 6
+: Transient 1D unsaturated flow. Numerical solutions of Richards equation.
 
-Nov 21
-: [Transport of PFAS under unsat. flow](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [Guo 2020](https://guolab.arizona.edu/pdfs/publications/2020_Guo_et_al_WRR.pdf)
-: **Release**{: .label .label-purple}[**HW #5**](#)		
+Apr 8
+: Unsaturated flow in multidimensions.
 
+Apr 9
+: Homework due
+: **Due**{: .label .label-purple} HW 6: Transient unsaturated flow 2
+
+Apr 10
+: Solute transport with unsaturated flow.
+
+Lecture slides: [PDF]()

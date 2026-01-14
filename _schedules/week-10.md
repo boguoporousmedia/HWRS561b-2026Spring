@@ -2,11 +2,13 @@
 title: Week 10
 ---
 
-Oct 29
-: [Review session for the midterm exam](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [](#)
-: **Release**{: .label .label-purple}[**HW #4**](#)
+Mar 16
+: Steady state unsaturated flow in multiple dimensions and with heterogeneities.
 
-Oct 31
-: [Midterm Oral Exam](https://guoporousmedialab.github.io/HWRS505-405-2024Fall/lecture/)
-  : [Time & Location (TBD)](#)
+Mar 18
+: Steady state unsaturated flow in multiple dimensions and with heterogeneities.
+
+Mar 20
+: Midterm exam (oral)
+
+Lecture slides: [PDF]()

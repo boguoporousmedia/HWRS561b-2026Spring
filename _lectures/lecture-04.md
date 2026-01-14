@@ -1,8 +1,7 @@
 ---
-title: "Lecture #04: Solute transport & multiphase fluids in capillary tubes"
+title: "Lecture #04: Conservative solute transport: Pore-scale controls, macroscopic formulation, governing equations, BCs, 1D Taylor-Aris dispersion"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thu, Sep 5, 11:00 am – 12:15 pm (Jianwen Du)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Jan 23, 2:00 pm – 2:50 pm (Bo Guo)
 
-- [Lecture slides: [PDF]](../assets/lecture_slides/Lecture_4_(9-5-2024).pdf) 
-- [Recording: [Video]](https://d2l.arizona.edu/d2l/le/content/1506694/viewContent/17489565/View)
+- [Recording: [Video]]()

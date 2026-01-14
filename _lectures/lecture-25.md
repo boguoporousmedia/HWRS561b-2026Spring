@@ -1,8 +1,7 @@
 ---
-title: "Lecture #25: Showcase of art of porous media flow"
+title: "Lecture #25: Midterm exam (oral)"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tu, Nov 26, 11:00 am – 12:15 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Mar 20, 2:00 pm – 2:50 pm (Bo Guo)
 
-- [Lecture slides: [No available]]
-- [Recording: [No available]]
+- [Recording: [Video]]()

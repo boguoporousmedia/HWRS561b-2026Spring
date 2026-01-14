@@ -1,8 +1,7 @@
 ---
-title: "Lecture #11: Steady-state unsaturated flow"
+title: "Lecture #11: Special lecture"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tu, Oct 1, 11:00 am – 12:15 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tue, Feb 10, 9:30 am – 10:20 am (Bo Guo)
 
-- [Lecture slides: [PDF]](../assets/lecture_slides/Lecture_11_(10-1-2024).pdf)
-- [Recording: [Video]](https://arizona.zoom.us/rec/share/6683dQLbMNfgynJIVZfYO1GG6DnFOuDQDQbn1d3lQzrh-9fMYVM7h5wHDE1YpDfT.Mv5vhDO_DkhHKkt6?startTime=1728077779000)
+- [Recording: [Video]]()
