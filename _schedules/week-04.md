@@ -12,7 +12,7 @@ Feb 4
 : Reactive solute transport: retardation, kinetic/equilibrium adsorption
 
 Feb 5
-: **Homework due (no lecture)**
+: **Homework due**
 : **Due**{: .label .label-purple} HW 1: Solute transport 1
 
 Feb 6

@@ -13,7 +13,7 @@ Feb 11
 : Pore-scale fluids distribution (capillary tubes)
 
 Feb 12
-: **Homework due (no lecture)**
+: **Homework due**
 : **Due**{: .label .label-purple} HW 2: Solute transport 2
 
 Feb 13

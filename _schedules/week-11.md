@@ -9,7 +9,7 @@ Mar 25
 : Transient 1D unsaturated flow. Simplified models (Green-Ampt, Philip's models).
 
 Mar 26
-: **Homework due (no lecture)**
+: **Homework due**
 : **Due**{: .label .label-purple} HW 4: Richards equation and steady-state unsaturated flow
 
 Mar 27

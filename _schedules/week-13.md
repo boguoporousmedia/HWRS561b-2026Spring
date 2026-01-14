@@ -9,7 +9,7 @@ Apr 8
 : Unsaturated flow in multidimensions.
 
 Apr 9
-: **Homework due (no lecture)**
+: **Homework due**
 : **Due**{: .label .label-purple} HW 6: Transient unsaturated flow 2
 
 Apr 10
