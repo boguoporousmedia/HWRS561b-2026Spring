@@ -65,6 +65,7 @@ seo:
 > - Midterm exam: 20%
 > - Final exam: 20%
 > - Participation: 5%
+> - Art of porous media flow: 5% (bonus)
 >
 > **Grading scale**
 >
