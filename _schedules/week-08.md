@@ -1,6 +1,6 @@
 ---
 title: Week 08
-module_title: Module 3: Steady-state and transient variably saturated flow
+module_title: "Module 3: Steady-state and transient variably saturated flow"
 ---
 
 Mar 2

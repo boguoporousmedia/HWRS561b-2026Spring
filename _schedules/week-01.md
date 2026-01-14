@@ -1,6 +1,6 @@
 ---
 title: Week 01
-module_title: Module 1: Solute transport in saturated media
+module_title: "Module 1: Solute transport in saturated media"
 ---
 
 Jan 14

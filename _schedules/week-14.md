@@ -1,6 +1,6 @@
 ---
 title: Week 14
-module_title: Module 4: Risk assessment of contaminant transport in the vadose zone and groundwater
+module_title: "Module 4: Risk assessment of contaminant transport in the vadose zone and groundwater"
 ---
 
 Apr 13
