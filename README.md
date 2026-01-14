@@ -48,7 +48,7 @@ seo:
 
 > **Weekly assignments**
 >
-> Assignments are assigned every Monday and due the following Thursday by 10 pm. They include short answer/calculation questions and are designed for an average time budget of 2.5 hours per week.
+> Assignments are assigned on Mondays and due on Thursdays by 10 pm. They are designed for an average time budget of 2.5 hours per week.
 >
 > **Projects**
 >
