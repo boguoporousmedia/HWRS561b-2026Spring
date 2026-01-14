@@ -10,3 +10,5 @@ Jan 28
 
 Jan 30
 : No class (Bo traveling)
+
+Lecture slides: [PDF]()

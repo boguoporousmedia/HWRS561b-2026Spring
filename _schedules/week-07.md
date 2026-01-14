@@ -13,3 +13,5 @@ Feb 25
 
 Feb 27
 : Two-phase flow. Richards' assumptions; Richards' equation.
+
+Lecture slides: [PDF]()

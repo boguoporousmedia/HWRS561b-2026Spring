@@ -8,3 +8,5 @@ Jan 14
 
 Jan 16
 : Field trip - No class
+
+Lecture slides: [PDF]()

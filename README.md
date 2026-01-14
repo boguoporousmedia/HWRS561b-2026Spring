@@ -60,8 +60,8 @@ seo:
 
 <h3>8. Course Grade:</h3>
 
-> - Course assignments (9): 45%
-> - Projects (physical hydrogeology component, 2): 10%
+> - Course assignments : 45%
+> - Projects (physical hydrogeology component): 10%
 > - Midterm exam: 20%
 > - Final exam: 20%
 > - Participation: 5%

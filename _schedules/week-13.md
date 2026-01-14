@@ -8,5 +8,11 @@ Apr 6
 Apr 8
 : Unsaturated flow in multidimensions.
 
+Apr 9
+: **Homework due (no lecture)**
+: **Due**{: .label .label-purple} HW 6: Transient unsaturated flow 2
+
 Apr 10
 : Solute transport with unsaturated flow.
+
+Lecture slides: [PDF]()

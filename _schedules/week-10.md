@@ -10,3 +10,5 @@ Mar 18
 
 Mar 20
 : Midterm exam (oral)
+
+Lecture slides: [PDF]()
