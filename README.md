@@ -46,7 +46,7 @@ seo:
 
 <h3>7. Assignments, Projects, and Exams:</h3>
 
-> **Weekly assignments**
+> **Assignments**
 >
 > Assignments are assigned on Mondays and due on Thursdays by 10 pm. They are designed for an average time budget of 2.5 hours per week.
 >
