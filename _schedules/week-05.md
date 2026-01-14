@@ -1,6 +1,6 @@
 ---
 title: Week 05
-module: Module 2: Pore-scale controls and macroscopic description of variably saturated flow
+module_title: Module 2: Pore-scale controls and macroscopic description of variably saturated flow
 ---
 
 Feb 9
