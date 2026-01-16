@@ -1,12 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
-permalink: /:path/
-seo:
-  type: Course
-  name: HWRS 561b Physical Hydrogeology II
----
 
 <h2>Physical Hydrogeology II (University of Arizona)</h2>
 
