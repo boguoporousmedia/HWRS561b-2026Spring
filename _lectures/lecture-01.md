@@ -4,4 +4,4 @@ title: "Lecture #01: Conservative solute transport: Pore-scale controls, macrosc
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Jan 21, 2:00 pm – 2:50 pm (Bo Guo)
 
-- [Recording: [Video]]()
+- [Recording: [Not available]]
