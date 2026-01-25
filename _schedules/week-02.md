@@ -13,4 +13,4 @@ Jan 23
 
 Lecture slides: [PDF(no annotation)](../assets/lecture_slides/1_solute_transport-wo-annotation.pdf), [PDF(w annotation)](../assets/lecture_slides/1_solute_transport-w-annotation.pdf)
 
-Homework 1: [PDF](../assets/homework/homework1.pdf), [jupyter notebook](../assets/homework/homework1.ipynb)
+Homework 1: [PDF](../assets/homework/homework1.pdf), [Jupyter Notebook](../assets/homework/homework1.ipynb)
