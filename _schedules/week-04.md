@@ -18,4 +18,4 @@ Feb 5
 Feb 6
 : Reactive solute transport: Analytical solutions, breakthrough curves.
 
-Lecture slides: [PDF(no annotation)](../assets/lecture_slides/3_solute_transport-wo-annotation.pdf), [PDF(w annotation)]()
+Lecture slides: [PDF(no annotation)](../assets/lecture_slides/3_solute_transport-wo-annotation.pdf), [PDF(w annotation)](../assets/lecture_slides/3_solute_transport-w-annotation.pdf)
