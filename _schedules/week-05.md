@@ -12,10 +12,6 @@ Feb 10
 Feb 11
 : Pore-scale fluids distribution (capillary tubes)
 
-Feb 12
-: **Homework due**
-: **Due**{: .label .label-purple} HW 2: Solute transport 2
-
 Feb 13
 : No class (Bo traveling)
 

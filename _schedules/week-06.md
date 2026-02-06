@@ -8,9 +8,9 @@ Feb 16
 Feb 18
 : Macroscopic descriptions of air/water distribution
 
-Feb 19
+Feb 12
 : **Homework due**
-: **Due**{: .label .label-purple} HW 3: Pore-scale fluids distribution
+: **Due**{: .label .label-purple} HW 2: Solute transport 2
 
 Feb 20
 : Macroscopic descriptions of air/water distribution
