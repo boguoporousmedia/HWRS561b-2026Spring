@@ -8,7 +8,7 @@ Feb 16
 Feb 18
 : Macroscopic descriptions of air/water distribution
 
-Feb 12
+Feb 19
 : **Homework due**
 : **Due**{: .label .label-purple} HW 2: Solute transport 2
 

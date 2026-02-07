@@ -20,4 +20,4 @@ Feb 6
 
 Lecture slides (Feb 2, 3, and 4): [PDF(no annotation)](../assets/lecture_slides/3_solute_transport-wo-annotation.pdf), [PDF(w annotation)](../assets/lecture_slides/3_solute_transport-w-annotation.pdf)
 
-Lecture slides (Feb 6): [PDF(no annotation)](../assets/lecture_slides/4_solute_transport-wo-annotation.pdf), [PDF(w annotation)]()
+Lecture slides (Feb 6): [PDF(no annotation)](../assets/lecture_slides/4_solute_transport-wo-annotation.pdf), [PDF(w annotation)](../assets/lecture_slides/4_solute_transport-w-annotation.pdf)

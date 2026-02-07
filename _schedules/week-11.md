@@ -13,6 +13,6 @@ Mar 26
 : **Due**{: .label .label-purple} HW 4: Richards equation and steady-state unsaturated flow
 
 Mar 27
-: No class (Bo traveling)
+: Transient 1D unsaturated flow. Simplified models (Green-Ampt, Philip's models).
 
 Lecture slides: [PDF]()
