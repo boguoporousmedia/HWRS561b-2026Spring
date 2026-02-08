@@ -1,7 +1,7 @@
 ---
-title: "Lecture #10: Pore-scale fluids distribution (capillary tubes)"
+title: "Lecture #10: Special lecture: Non-conservative solute transport: Analytical solutions, breakthrough curves"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Feb 11, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tue, Feb 10, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

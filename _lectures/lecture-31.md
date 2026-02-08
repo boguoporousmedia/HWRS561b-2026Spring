@@ -1,7 +1,7 @@
 ---
-title: "Lecture #31: Solute transport with unsaturated flow"
+title: "Lecture #31: Transient 1D unsaturated flow. Numerical solutions of Richards equation"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Apr 10, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Apr 1, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

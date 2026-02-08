@@ -1,7 +1,7 @@
 ---
-title: "Lecture #14: Two-phase flow. Richards' assumptions; Richards' equation"
+title: "Lecture #14: **Homework due**"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon, Feb 23, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thu, Feb 19, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

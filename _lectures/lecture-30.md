@@ -1,7 +1,7 @@
 ---
-title: "Lecture #30: Unsaturated flow in multidimensions"
+title: "Lecture #30: Transient 1D unsaturated flow. Numerical solutions of Richards equation"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Apr 8, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon, Mar 30, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()
