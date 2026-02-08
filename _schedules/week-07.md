@@ -3,7 +3,7 @@ title: Week 07
 ---
 
 Feb 23
-: Two-phase flow. Richards' assumptions; Richards' equation.
+: Macroscopic descriptions of air/water distribution
 
 Feb 24
 : Special lecture: Two-phase flow. Richards' assumptions; Richards' equation.

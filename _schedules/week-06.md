@@ -1,12 +1,13 @@
 ---
 title: Week 06
+module_title: "Module 2: Pore-scale controls and macroscopic description of variably saturated flow"
 ---
 
 Feb 16
-: Macroscopic descriptions of air/water distribution
+: Pore-scale fluids distribution (capillary tubes)
 
 Feb 18
-: Macroscopic descriptions of air/water distribution
+: Pore-scale fluids distribution (capillary tubes)
 
 Feb 19
 : **Homework due**
