@@ -1,7 +1,7 @@
 ---
-title: "Lecture #31: Transient 1D unsaturated flow. Numerical solutions of Richards equation"
+title: "Lecture #31: Transport of pesticides/nutrients in the vadose zone"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Apr 1, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Apr 15, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

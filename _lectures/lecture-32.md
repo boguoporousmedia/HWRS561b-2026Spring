@@ -1,7 +1,7 @@
 ---
-title: "Lecture #32: **Homework due**"
+title: "Lecture #32: Transport of pesticides/nutrients in the vadose zone"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thu, Apr 2, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Apr 17, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

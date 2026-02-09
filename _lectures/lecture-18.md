@@ -1,7 +1,7 @@
 ---
-title: "Lecture #18: Two-phase flow. Richards' assumptions; Richards' equation"
+title: "Lecture #18: Steady-state 1D unsaturated flow"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Feb 25, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Mar 4, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

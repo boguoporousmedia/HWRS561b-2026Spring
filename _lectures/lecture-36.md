@@ -1,7 +1,7 @@
 ---
-title: "Lecture #36: Solute transport with unsaturated flow"
+title: "Lecture #36: Transport of PFAS in the vadose zone"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Apr 10, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon, Apr 27, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

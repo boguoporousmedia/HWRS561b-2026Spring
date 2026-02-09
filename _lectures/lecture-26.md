@@ -1,7 +1,7 @@
 ---
-title: "Lecture #26: Transient 1D unsaturated flow. Simplified models (Green-Ampt, Philip's models)"
+title: "Lecture #26: Transient 1D unsaturated flow. Numerical solutions of Richards equation"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon, Mar 23, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Apr 1, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()

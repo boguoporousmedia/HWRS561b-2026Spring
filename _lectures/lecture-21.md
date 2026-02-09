@@ -1,7 +1,7 @@
 ---
-title: "Lecture #21: Steady-state 1D unsaturated flow"
+title: "Lecture #21: Steady state unsaturated flow in multiple dimensions and with heterogeneities"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Mar 4, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Mar 18, 2:00 pm – 2:50 pm (Bo Guo)
 
 - [Recording: [Video]]()
