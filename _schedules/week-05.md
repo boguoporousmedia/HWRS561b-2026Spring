@@ -14,4 +14,4 @@ Feb 11
 Feb 13
 : No class (Bo traveling)
 
-Lecture slides: [PDF]()
+Lecture slides: [PDF(no annotation)](../assets/lecture_slides/4_solute_transport-wo-annotation.pdf), [PDF(w annotation)](../assets/lecture_slides/4_solute_transport-w-annotation.pdf)
