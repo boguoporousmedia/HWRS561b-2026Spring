@@ -18,8 +18,8 @@ Feb 5
 Feb 6
 : Non-conservative solute transport: Analytical solutions, breakthrough curves.
 
-Lecture slides (Feb 2, 3, and 4): [PDF(no annotation)](../assets/lecture_slides/3_solute_transport-wo-annotation.pdf), [PDF(w annotation)](../assets/lecture_slides/3_solute_transport-w-annotation.pdf)
+Lecture slides (Feb 2, 3, and 4): [PDF(no annotation)](../assets/lecture_slides/Solute_transport-wo-annotation_3.pdf), [PDF(w annotation)](../assets/lecture_slides/Solute_transport-w-annotation_3.pdf)
 
-Lecture slides (Feb 6): [PDF(no annotation)](../assets/lecture_slides/4_solute_transport-wo-annotation.pdf), [PDF(w annotation)](../assets/lecture_slides/4_solute_transport-w-annotation.pdf)
+Lecture slides (Feb 6): [PDF(no annotation)](../assets/lecture_slides/Solute_transport-wo-annotation_4.pdf), [PDF(w annotation)](../assets/lecture_slides/Solute_transport-w-annotation_4.pdf)
 
 Homework 2: [PDF](../assets/homework/homework2.pdf), [Jupyter Notebook](../assets/homework/homework2.ipynb)

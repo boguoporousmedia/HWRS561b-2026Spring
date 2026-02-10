@@ -11,4 +11,4 @@ Jan 28
 Jan 30
 : No class (Bo traveling)
 
-Lecture slides: [PDF(no annotation)](../assets/lecture_slides/2_solute_transport-wo-annotation.pdf), [PDF(w annotation)](../assets/lecture_slides/2_solute_transport-w-annotation.pdf)
+Lecture slides: [PDF(no annotation)](../assets/lecture_slides/Solute_transport-wo-annotation_2.pdf), [PDF(w annotation)](../assets/lecture_slides/Solute_transport-w-annotation_2.pdf)
