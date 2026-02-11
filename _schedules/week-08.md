@@ -9,6 +9,10 @@ Mar 2
 Mar 4
 : Steady-state 1D unsaturated flow.
 
+Mar 5
+: **Homework due**
+: **Due**{: .label .label-purple} HW 3: Pore-scale fluids distribution, macroscopic description, and Richards assumption
+
 Mar 6
 : Steady-state 1D unsaturated flow.
 

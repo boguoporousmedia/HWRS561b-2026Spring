@@ -3,14 +3,14 @@ title: Week 13
 ---
 
 Apr 6
-: Transient 1D unsaturated flow. Numerical solutions of Richards equation.
+: Unsaturated flow in multidimensions.
 
 Apr 8
 : Unsaturated flow in multidimensions.
 
 Apr 9
 : **Homework due**
-: **Due**{: .label .label-purple} HW 6: Transient unsaturated flow 2
+: **Due**{: .label .label-purple} HW 5: Transient unsaturated flow
 
 Apr 10
 : Solute transport with unsaturated flow.

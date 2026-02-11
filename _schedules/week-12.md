@@ -8,8 +8,7 @@ Mar 30
 Apr 1
 : Transient 1D unsaturated flow. Numerical solutions of Richards equation.
 
-Apr 2
-: **Homework due**
-: **Due**{: .label .label-purple} HW 5: Transient unsaturated flow 1
+Apr 3
+: Transient 1D unsaturated flow. Numerical solutions of Richards equation.
 
 Lecture slides: [PDF]()
