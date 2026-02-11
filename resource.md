@@ -23,5 +23,4 @@ description: Class resources.
 
 <h3>3. Jupyter Notebook examples:</h3>
 
-> - Numerical solution for solute transport: [Jupyter Notebook](assets/jupyter_notebook_examples/solute_transport_finite_domain_numerical.ipynb)
-
+> - Numerical solution for solute transport: <a href="assets/jupyter_notebook_examples/solute_transport_finite_domain_numerical.ipynb" download>Jupyter Notebook</a>
