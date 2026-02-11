@@ -20,3 +20,8 @@ description: Class resources.
 > - Contaminant Hydrogeology — C. W. Fetter, T. Boving, and D. Kreamer (2018)
 > - Subsurface Hydrology — G. F. Pinder and M. A. Celia (2006)
 > - Soil Physics — W. A. Jury and R. Horton (2004)
+
+<h3>3. Jupyter Notebook examples:</h3>
+
+> - Numerical solution for solute transport: [Jupyter Notebook](assets/jupyter_notebook_examples/solute_transport_finite_domain_numerical.ipynb)
+
