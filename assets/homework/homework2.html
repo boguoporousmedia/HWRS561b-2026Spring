@@ -7535,18 +7535,18 @@ a.anchor-link {
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <ol>
-<li><p>Consider one-dimensional conservative solute transport in a saturated homogeneous porous medium (with a length of $L$) governed by the advection–dispersion equation with constant porewater velocity ($V$) and dispersion coefficient ($D$).</p>
+<li><p>(20 points) Consider one-dimensional conservative solute transport in a saturated homogeneous porous medium (with a length of $L$) governed by the advection–dispersion equation with constant porewater velocity ($V$) and dispersion coefficient ($D$).</p>
 <ol>
-<li><p>Starting from the advection–dispersion equation, use a scaling analysis to derive the characteristic time scale for:</p>
+<li><p>(7 points) Starting from the advection–dispersion equation, use a scaling analysis to derive the characteristic time scale for:</p>
 <ul>
 <li>advection, $t_a$</li>
 <li>dispersion, $t_d$</li>
 </ul>
 <p>Clearly state the characteristic length scale you assume.</p>
 </li>
-<li><p>Define the Peclet number using these characteristic time scales and explain its physical meaning in one or two sentences.</p>
+<li><p>(6 points) Define the Peclet number using these characteristic time scales and explain its physical meaning in one or two sentences.</p>
 </li>
-<li><p>A tracer is injected into a homogeneous sand column of length $L = 1$ m with porewater velocity $V = 0.5$ m/day.</p>
+<li><p>(7 points) A tracer is injected into a homogeneous sand column of length $L = 1$ m with porewater velocity $V = 0.5$ m/day.</p>
 <ul>
 <li>Case A: $D = 5 \times 10^{-3}$ m $^2$ /day</li>
 <li>Case B: $D = 5 \times 10^{-2}$ m $^2$ /day</li>
@@ -7560,13 +7560,13 @@ a.anchor-link {
 </li>
 </ol>
 </li>
-<li><p>A conservative tracer is injected continuously at concentration $C_0$ into a saturated soil column of length (L = 0.5) m. The initial concentration is zero everywhere. The porewater velocity is constant, and transport can be approximated as one-dimensional.</p>
+<li><p>(20 points) A conservative tracer is injected continuously at concentration $C_0$ into a saturated soil column of length (L = 0.5) m. The initial concentration is zero everywhere. The porewater velocity is constant, and transport can be approximated as one-dimensional.</p>
 <ol>
-<li><p>Write the analytical solution for concentration $C(x,t)$ in a semi-infinite domain for a step change in inlet concentration.</p>
+<li><p>(5 points) Write the analytical solution for concentration $C(x,t)$ in a semi-infinite domain for a step change in inlet concentration.</p>
 </li>
-<li><p>What boundary condition would assign to the outlet for the solute transport in the saturated soil column? Explain why the semi-infinite domain solution may be directly used to approximate the column experiment at early times before the solute arrives at the outlet.</p>
+<li><p>(5 points) What boundary condition would you assign to the outlet for the solute transport in the saturated soil column? Explain why the semi-infinite domain solution may be directly used to approximate the column experiment at early times before the solute arrives at the outlet.</p>
 </li>
-<li><p>After the solute arrives at the outlet, the semi-infinite domain solution is no longer consistent with your boundary condition at the outlet. We introduced an approach to fix this in class. Write that the revise semi-infinite domain solution that may be used to model the breakthrough curve at the outlet of the saturated soil column. Compute and plot breakthrough curves $C(L,t)/C_0$ at the column outlet for the following Peclet numbers:</p>
+<li><p>(5 points) After the solute arrives at the outlet, the semi-infinite domain solution is no longer consistent with your boundary condition at the outlet. We introduced an approach to fix this in class. Write the revised semi-infinite domain solution that may be used to model the breakthrough curve at the outlet of the saturated soil column. Compute and plot breakthrough curves $C(L,t)/C_0$ at the column outlet for the following Peclet numbers:</p>
 <ul>
 <li>$Pe = 5$</li>
 <li>$Pe = 50$</li>
@@ -7574,7 +7574,7 @@ a.anchor-link {
 </ul>
 <p>You may assume $L=0.5$ m and choose $V$ and $D$ accordingly.</p>
 </li>
-<li><p>On the same figure, compare the three breakthrough curves and answer:</p>
+<li><p>(5 points) On the same figure, compare the three breakthrough curves and answer:</p>
 <ul>
 <li>How does increasing Peclet number affect the steepness of the breakthrough curve?</li>
 <li>Which case best approximates piston flow?</li>
@@ -7583,36 +7583,36 @@ a.anchor-link {
 </li>
 </ol>
 </li>
-<li><p>Consider solute transport in a semi-infinite domain ($x \ge 0$) with constant velocity $V$ and dispersion coefficient $D$. The initial concentration is zero everywhere. At the inlet ($x=0$), impose a flux boundary condition corresponding to two identical pulses of concentration: $VC - D \partial C/\partial x = V C_0$.</p>
+<li><p>(20 points) Consider solute transport in a semi-infinite domain ($x \ge 0$) with constant velocity $V$ and dispersion coefficient $D$. The initial concentration is zero everywhere. At the inlet ($x=0$), impose a flux boundary condition corresponding to two identical pulses of concentration: $VC - D \partial C/\partial x = V C_0$.</p>
 <ul>
 <li>Pulse 1: $t=0$ to $t=t_0$</li>
 <li>Pulse 2: $t=T$ to $t=T+t_0$, where $T &gt; t_0$</li>
 </ul>
 <p>Far-field boundary condition: $\lim_{x\to\infty} \partial C/\partial x$ is finite.</p>
 <ol>
-<li>Write the analytical expression for concentration $C(x,t)$ due to a single pulse using the step-change continuous injection solution and the principle of superposition.</li>
-<li>Using your result from (1), write the full analytical solution for the two-pulse injection at any location $x$ and time $t$.</li>
-<li>Sketch (no computation required) the expected breakthrough curve at a fixed observation point $x = x_{obs}$, clearly indicating:<ul>
+<li>(5 points) Write the analytical expression for concentration $C(x,t)$ due to a single pulse using the step-change continuous injection solution and the principle of superposition.</li>
+<li>(5 points) Using your result from (1), write the full analytical solution for the two-pulse injection at any location $x$ and time $t$.</li>
+<li>(5 points) Sketch (no computation required) the expected breakthrough curve at a fixed observation point $x = x_{obs}$, clearly indicating:<ul>
 <li>arrival of each pulse</li>
 <li>overlap or separation depending on the relative magnitude of $T$, $t_0$, and dispersion</li>
 </ul>
 </li>
-<li>Briefly explain why superposition is valid for this problem and under what conditions it would no longer be valid.</li>
+<li>(5 points) Briefly explain why superposition is valid for this problem and under what conditions it would no longer be valid.</li>
 </ol>
 </li>
-<li><p>Consider one-dimensional transport of a solute in a saturated porous medium with equilibrium sorption described by a linear isotherm</p>
+<li><p>(20 points) Consider one-dimensional transport of a solute in a saturated porous medium with equilibrium sorption described by a linear isotherm</p>
 <p>$$
 C_s = K_d C
 $$</p>
 <p>where $C_s$ is the sorbed concentration (mass per mass of solid) and $C$ is the aqueous concentration.</p>
 <ol>
-<li><p>Starting from the mass balance equation that includes both aqueous and sorbed phases,</p>
+<li><p>(7 points) Starting from the mass balance equation that includes both aqueous and sorbed phases,</p>
 <p>$$
 \phi \frac{\partial C}{\partial t} + \rho_b \frac{\partial C_s}{\partial t} + \phi V \frac{\partial C}{\partial x} - \phi D \frac{\partial^2 C}{\partial x^2} = 0,
 $$</p>
 <p>derive the advection–dispersion equation with a retardation factor $R$. Explain what parameters control $R$.</p>
 </li>
-<li><p>A tracer test is conducted in a sand column with:</p>
+<li><p>(7 points) A tracer test is conducted in a sand column with:</p>
 <ul>
 <li>porosity $\phi = 0.35$</li>
 <li>bulk density $\rho_b = 1.65$ g/cm $^3$</li>
@@ -7631,28 +7631,56 @@ $$</p>
 <li>predict qualitatively how the breakthrough curves would differ (Try your best to be as quantitative as possible). Explain why, under equilibrium sorption, the shape of the breakthrough curve is unchanged but the arrival time is delayed.</li>
 </ul>
 </li>
-<li><p>Now suppose that the solute B does not follow linear adsorption, instead, it follows the Freundlich adsorption. $K_f = 0.8$ and $N = 0.7$. Sketch the breakthrough curve and contrast it with that from linear adsorption.</p>
+<li><p>(6 points) Now suppose that the solute B does not follow linear adsorption, instead, it follows the Freundlich adsorption. $K_f = 0.8$ and $N = 0.7$. Sketch the breakthrough curve and contrast it with that from linear adsorption.</p>
 </li>
 </ol>
 </li>
-<li><p>Consider one-dimensional solute transport in a saturated porous medium column with first-order kinetic sorption. The sorbed concentration evolves according to</p>
+<li><p>(20 points) Consider one-dimensional solute transport in a saturated porous medium column with first-order kinetic sorption. The sorbed concentration evolves according to</p>
 <p>$$
 \frac{\partial C_s}{\partial t} = k (K_d C - C_s),
 $$</p>
 <p>where $k$ is a first-order rate constant.</p>
 <ol>
-<li><p>Write the coupled system of equations governing aqueous concentration $C(x,t)$ and sorbed concentration $C_s(x,t)$.</p>
+<li><p>(5 points) Write the coupled system of equations governing aqueous concentration $C(x,t)$ and sorbed concentration $C_s(x,t)$.</p>
 </li>
-<li><p>Explain why a single, constant retardation factor $R$ can no longer be defined for this system.</p>
+<li><p>(5 points) Explain why a single, constant retardation factor $R$ can no longer be defined for this system.</p>
 </li>
-<li><p>Consider a pulse injection at the inlet ($x=0$) with duration $t_0$. Qualitatively describe how the breakthrough curve at a fixed observation point changes as:</p>
+<li><p>(5 points) Consider a pulse injection at the inlet ($x=0$) with duration $t_0$. Qualitatively describe how the breakthrough curve at a fixed observation point changes as:</p>
 <ul>
 <li>$k \to \infty$</li>
 <li>$k \to 0$</li>
 </ul>
 <p>On the same plot, also sketch the breakthrough curve with equilibrium sorption. In your answer, discuss peak arrival time, tailing, and mass recovery.</p>
 </li>
-<li><p>Briefly explain why kinetic sorption often produces long late-time tails in breakthrough curves, even when dispersion is small.</p>
+<li><p>(5 points) Briefly explain why kinetic sorption often produces long late-time tails in breakthrough curves, even when dispersion is small.</p>
+</li>
+</ol>
+</li>
+<li><p>(20 points) Use the notebook <code>Resources-&gt;Numerical solution for solute transport [Jupyter Notebook]</code> to investigate one-dimensional solute transport in a finite domain. For all parts below, include your modified parameter values, plots, and concise interpretation.</p>
+<ol>
+<li>(5 points) Baseline and boundary condition effect:<ul>
+<li>Start from the default settings in the notebook.</li>
+<li>Run one case with <code>bc_type = 'concentration'</code> and one case with <code>bc_type = 'flux'</code> (all other parameters unchanged).</li>
+<li>Plot normalized outlet breakthrough curves ($C/C_0$ at $x=L$) versus pore volumes on the same figure and compare peak concentration and arrival behavior.</li>
+</ul>
+</li>
+<li>(5 points) Dispersion sensitivity:<ul>
+<li>Set <code>sorption_type = 'none'</code> and <code>use_two_site = False</code>.</li>
+<li>Run at least three dispersion values (for example, low, medium, high $D$ while keeping $L$ and $v$ fixed).</li>
+<li>Compare how increasing $D$ changes early breakthrough, curve steepness, and tailing at the outlet.</li>
+</ul>
+</li>
+<li>(5 points) Equilibrium sorption model comparison:<ul>
+<li>Keep transport parameters fixed and run <code>sorption_type = 'none'</code>, <code>'linear'</code>, <code>'freundlich'</code>, and <code>'langmuir'</code> with <code>use_two_site = False</code>.</li>
+<li>On one figure, compare outlet breakthrough curves and rank the four cases by apparent retardation (earliest to latest mean arrival).</li>
+<li>Briefly explain whether differences are mainly shifts in arrival time, shape changes, or both.</li>
+</ul>
+</li>
+<li>(5 points) Kinetic two-site effects:<ul>
+<li>Choose one equilibrium isotherm (<code>'linear'</code>, <code>'freundlich'</code>, or <code>'langmuir'</code>) and turn on <code>use_two_site = True</code>.</li>
+<li>Compare at least three kinetic scenarios by changing <code>F_s</code> and/or <code>alpha_s</code> (including one case close to equilibrium behavior and one strongly kinetic case).</li>
+<li>Using linear and log-scale BTC plots, explain how kinetic sorption affects late-time tailing and mass release relative to the equilibrium-only case.</li>
+</ul>
 </li>
 </ol>
 </li>
