@@ -22,4 +22,4 @@ Lecture slides (Feb 2, 3, and 4): [PDF(no annotation)](../assets/lecture_slides/
 
 Lecture slides (Feb 6): [PDF(no annotation)](../assets/lecture_slides/Solute_transport-wo-annotation_4.pdf), [PDF(w annotation)](../assets/lecture_slides/Solute_transport-w-annotation_4.pdf)
 
-Homework 2: [PDF]({{ "/assets/homework/homework2.pdf" | relative_url }}), [Jupyter Notebook]({{ "/assets/homework/homework2.ipynb" | relative_url }})
+Homework 2: [PDF]({{ "/assets/homework/homework2.pdf" | relative_url }}), <a href='{{ "/assets/homework/homework2.ipynb" | relative_url }}' download='homework2.ipynb'>Jupyter Notebook</a>
