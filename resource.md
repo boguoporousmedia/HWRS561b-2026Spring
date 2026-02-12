@@ -9,7 +9,7 @@ description: Class resources.
 
 <h3>0. Syllabus</h3>
 
-> [HWRS 561b Syllabus (PDF)](assets/syllabus/HWRS_561b_Guo_Syllabus.pdf)
+> [HWRS 561b Syllabus (PDF)]({{ "/assets/syllabus/HWRS_561b_Guo_Syllabus.pdf" | relative_url }})
 
 <h3>1. Class Recordings</h3>
 
@@ -23,4 +23,4 @@ description: Class resources.
 
 <h3>3. Jupyter Notebook examples:</h3>
 
-> - Numerical solution for solute transport: <a href="assets/jupyter_notebook_examples/solute_transport_finite_domain_numerical.ipynb" download>Jupyter Notebook</a>
+> - Numerical solution for solute transport: [Jupyter Notebook]({{ "/assets/jupyter_notebook_examples/solute_transport_finite_domain_numerical.ipynb" | relative_url }})
