@@ -16,4 +16,4 @@ Feb 19
 Feb 20
 : Macroscopic descriptions of air/water distribution
 
-Lecture slides: [PDF]()
+Lecture slides (same as Feb 11): [PDF(no annotation)](../assets/lecture_slides/Pore-scale_fluids_distribution_wo_annotation_1.pdf), [PDF(w annotation)](../assets/lecture_slides/Pore-scale_fluids_distribution_w_annotation_1.pdf)
