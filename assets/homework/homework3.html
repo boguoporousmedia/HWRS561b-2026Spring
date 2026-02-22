@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>homework2</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>homework3</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <style type="text/css">
     pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -7511,15 +7511,15 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=3d3bc999">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=e1a0a7a6">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="HWRS-561b-Homework-%232-%7B-%7D">HWRS 561b Homework #2 {-}<a class="anchor-link" href="#HWRS-561b-Homework-%232-%7B-%7D">¶</a></h2><ul>
-<li>Assigned: Sunday, 8 February 2026</li>
-<li>Due: Thursday, 19 February 2026 (upload answers in PDF or Jupyter Notebook to D2L)</li>
+<h2 id="HWRS-561b-Homework-%233-%7B-%7D">HWRS 561b Homework #3 {-}<a class="anchor-link" href="#HWRS-561b-Homework-%233-%7B-%7D">¶</a></h2><ul>
+<li>Assigned: Sunday, 22 February 2026</li>
+<li>Due: Thursday, 5 March 2026 (upload answers in PDF or Jupyter Notebook to D2L)</li>
 <li>Instructor: Bo Guo</li>
 <li>Teaching Assistant: Aldo Andres Tapia Araya</li>
 <li>Semester: Spring 2026</li>
@@ -7528,160 +7528,50 @@ a.anchor-link {
 </div>
 </div>
 </div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=b2867b53">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=f0f2e6a9">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <ol>
-<li><p>(20 points) Consider one-dimensional conservative solute transport in a saturated homogeneous porous medium (with a length of $L$) governed by the advection–dispersion equation with constant porewater velocity ($V$) and dispersion coefficient ($D$).</p>
+<li><p>(10 points) Propose two questions that you think can be used as midterm oral exam questions. The questions should focus on some of the most critical concepts that we have covered so far in this course. Keep in mind that these are oral exam questions, so they should not involve detailed calculations; rather, they should focus on testing whether one can draw or develop conceptual pictures and formulate physical arguments. Make sure to describe your questions concisely and accurately. Ask one of your classmates to answer your questions. Then, summarize her/his answers below. Please also write your own comments on the answers. You should also put down her/his name.</p>
+</li>
+<li><p>(20 points) Consider a confined aquifer into which an LNAPL has been spilled. The LNAPL accumulates below the upper aquitard. The aquifer and aquitard materials are water-wet with contact angle $\theta = 0^\circ$. A representative pore radius for the aquitard is 0.05 mm. A representative pore diameter for the confined aquifer is 1 mm. The hydraulic head of water in the aquitard (above the LNAPL) is identical to the hydraulic head of water in the aquifer (below the LNAPL), and water is hydrostatic everywhere. The densities of water and LNAPL are 1.0 and 0.975 g cm$^{-3}$, respectively. The interfacial tension between LNAPL and water is 0.02 N m$^{-1}$.</p>
 <ul>
-<li><p>(a) (7 points) Starting from the advection–dispersion equation, use a scaling analysis to derive the characteristic time scale for:</p>
+<li>(a) (10 points) Draw a capillary-tube representation of this system. (Hint: approximate both aquifer and aquitard as bundles of tubes; for simplification, one tube for the aquifer and one tube for the aquitard is sufficient.)</li>
+<li>(b) (10 points) Write a general expression (in terms of $r_{\text{aquitard}}$, $r_{\text{aquifer}}$, $\rho_{\text{water}}$, $\rho_{\text{LNAPL}}$, $\sigma_{\text{water-LNAPL}}$, and $h_{\text{LNAPL}}$) for the maximum LNAPL thickness that can exist below the aquitard before LNAPL first enters the aquitard. Then use the values above to compute that thickness.</li>
+</ul>
+</li>
+<li><p>(20 points) Use the bundle of cylindrical capillary tubes to complete the following two problems.</p>
 <ul>
-<li>advection, $t_a$</li>
-<li>dispersion, $t_d$</li>
-</ul>
-<p>Clearly state the characteristic length scale you assume.</p>
-</li>
-<li><p>(b) (6 points) Define the Peclet number using these characteristic time scales and explain its physical meaning in one or two sentences.</p>
-</li>
-<li><p>(c) (7 points) A tracer is injected into a homogeneous sand column of length $L = 1$ m with porewater velocity $V = 0.5$ m/day.</p>
-<ul>
-<li>Case A: $D = 5 \times 10^{-3}$ m $^2$ /day</li>
-<li>Case B: $D = 5 \times 10^{-2}$ m $^2$ /day</li>
-</ul>
-<p>For each case:</p>
-<ul>
-<li>Compute $t_a$, $t_d$, and $Pe$.</li>
-<li>State whether transport is advection-dominated, dispersion-dominated, or transitional (i.e., advection and dispersion are comparable).</li>
-<li>Predict qualitatively and sketch how the breakthrough curve shape would differ between the two cases.</li>
+<li>(a) (10 points) The relative permeability function is almost always nonlinear. Examples are the Brooks-Corey and van Genuchten models. Explain why the relative permeability function is nonlinear. Additionally, explain how the relative permeability functions for wetting and nonwetting fluid phases are different and why.</li>
+<li>(b) (10 points) Explain the algorithmic steps to derive a relative permeability curve if an SWC is measured for a soil. You are not allowed to use any existing functional form for the relative permeability.</li>
 </ul>
 </li>
-</ul>
-</li>
-<li><p>(20 points) A conservative tracer is injected continuously at concentration $C_0$ into a saturated soil column of length (L = 0.5) m. The initial concentration is zero everywhere. The porewater velocity is constant, and transport can be approximated as one-dimensional.</p>
-<ul>
-<li><p>(a) (5 points) Write the analytical solution for concentration $C(x,t)$ in a semi-infinite domain for continuous injection with a 3rd-type (flux) inlet boundary condition, $\left.-D\,\partial C/\partial x + VC\right|_{x=0}=VC_0$.</p>
-</li>
-<li><p>(b) (5 points) What boundary condition would you assign to the outlet for the solute transport in the saturated soil column? Explain why the semi-infinite domain solution may be directly used to approximate the column experiment at early times before the solute arrives at the outlet.</p>
-</li>
-<li><p>(c) (5 points) After the solute arrives at the outlet, the semi-infinite concentration solution is no longer consistent with your outlet boundary condition. Using the class approach, define the outlet flux-based concentration by $\left.-D\,\partial C/\partial x + VC\right|_{x=L}=VC_f$, then write the revised expression for $C_f(L,t)/C_0$ and compute/plot breakthrough curves for the following Peclet numbers:</p>
-<ul>
-<li>$Pe = 5$</li>
-<li>$Pe = 50$</li>
-<li>$Pe = 500$</li>
-</ul>
-<p>You may assume $L=0.5$ m and choose $V$ and $D$ accordingly.</p>
-</li>
-<li><p>(d) (5 points) On the same figure, compare the three breakthrough curves and answer:</p>
-<ul>
-<li>How does increasing Peclet number affect the steepness of the breakthrough curve?</li>
-<li>Which case best approximates piston flow?</li>
-<li>Which case shows the strongest early breakthrough and tailing?</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p>(20 points) Consider solute transport in a semi-infinite domain ($x \ge 0$) with constant velocity $V$ and dispersion coefficient $D$. The initial concentration is zero everywhere. At the inlet ($x=0$), impose a flux boundary condition corresponding to two identical pulses of concentration: $VC - D \partial C/\partial x = V C_0$.</p>
-<ul>
-<li>Pulse 1: $t=0$ to $t=t_0$</li>
-<li>Pulse 2: $t=T$ to $t=T+t_0$, where $T &gt; t_0$</li>
-</ul>
-<p>Far-field boundary condition: $\lim_{x\to\infty} \partial C/\partial x$ is finite.</p>
-<ul>
-<li>(a) (5 points) Write the analytical expression for concentration $C(x,t)$ due to a single pulse using the step-change continuous injection solution and the principle of superposition.</li>
-<li>(b) (5 points) Using your result from (a), write the full analytical solution for the two-pulse injection at any location $x$ and time $t$.</li>
-<li>(c) (5 points) Sketch (no computation required) the expected breakthrough curve at a fixed observation point $x = x_{obs}$, clearly indicating:<ul>
-<li>arrival of each pulse</li>
-<li>overlap or separation depending on the relative magnitude of $T$, $t_0$, and dispersion</li>
-</ul>
-</li>
-<li>(d) (5 points) Briefly explain why superposition is valid for this problem and under what conditions it would no longer be valid.</li>
-</ul>
-</li>
-<li><p>(20 points) Consider one-dimensional transport of a solute in a saturated porous medium with equilibrium sorption described by a linear isotherm</p>
+<li><p>(20 points) Unsaturated permeability and relative permeability.</p>
+<p>In 1D vertical flow (positive $z$ upward) for a homogeneous medium, use extended Darcy's law for the wetting phase:</p>
 <p>$$
-C_s = K_d C
+q_w = -K_{sat}k_{rw}(S_e)\left(\frac{dh}{dz}+1\right).
 $$</p>
-<p>where $C_s$ is the sorbed concentration (mass per mass of solid) and $C$ is the aqueous concentration.</p>
-<ul>
-<li><p>(a) (7 points) Starting from the mass balance equation that includes both aqueous and sorbed phases,</p>
+<p>Use the Brooks-Corey-Mualem type relation</p>
 <p>$$
- \phi \frac{\partial C}{\partial t} + \rho_b \frac{\partial C_s}{\partial t} + \phi V \frac{\partial C}{\partial x} - \phi D \frac{\partial^2 C}{\partial x^2} = 0,
- $$</p>
-<p>derive the advection–dispersion equation with a retardation factor $R$. Explain what parameters control $R$.</p>
-</li>
-<li><p>(b) (7 points) A tracer test is conducted in a sand column with:</p>
-<ul>
-<li>porosity $\phi = 0.35$</li>
-<li>bulk density $\rho_b = 1.65$ g/cm $^3$</li>
-<li>pore water velocity $V = 0.4$ m/day</li>
-<li>dispersion coefficient $D = 0.02$ m $^2$/day</li>
-</ul>
-<p>Two solutes are injected separately continously at a concentration of 1 mg/L</p>
-<ul>
-<li>Solute A: $K_d = 0$</li>
-<li>Solute B: $K_d = 0.8$ L/kg</li>
-</ul>
-<p>For each solute:</p>
-<ul>
-<li>compute the retardation factor</li>
-<li>compute the effective advective velocity (after accounting for the retardation factor $R$, i.e., $V_{\text{eff}}=V/R$)</li>
-<li>predict qualitatively how the breakthrough curves would differ (Try your best to be as quantitative as possible). Explain why, under equilibrium sorption, the shape of the breakthrough curve is unchanged but the arrival time is delayed.</li>
-</ul>
-</li>
-<li><p>(c) (6 points) Now suppose that the solute B does not follow linear adsorption, instead, it follows the Freundlich adsorption. $K_f = 0.8$ and $N = 0.7$. Sketch the breakthrough curve and contrast it with that from linear adsorption.</p>
-</li>
-</ul>
-</li>
-<li><p>(20 points) Consider one-dimensional solute transport in a saturated porous medium column with first-order kinetic sorption. The sorbed concentration evolves according to</p>
-<p>$$
-\frac{\partial C_s}{\partial t} = k (K_d C - C_s),
+k_{rw}=S_e^{(2+3\lambda)/\lambda}.
 $$</p>
-<p>where $k$ is a first-order rate constant.</p>
+<p>Parameters: $\theta_r=0.08$, $\theta_s=0.38$, $\lambda=0.50$, $K_{sat}=1.2\times10^{-5}$ m/s, and $dh/dz=0$.</p>
 <ul>
-<li><p>(a) (5 points) Write the coupled system of equations governing aqueous concentration $C(x,t)$ and sorbed concentration $C_s(x,t)$.</p>
+<li>(a) (4 points) In this 1D vertical-flow setting, identify the driving force for water flow under the condition above.</li>
+<li>(b) (8 points) Plot $k_{rw}$ and $q_w$ as functions of water saturation, $S_w=\theta/\theta_s$, over $S_w\in[\theta_r/\theta_s,1]$. Clearly label axes and units.</li>
+<li>(c) (8 points) Based on your plots from (b), explain why direct measurement of relative permeability curves is difficult.</li>
+</ul>
 </li>
-<li><p>(b) (5 points) Explain why a single, constant retardation factor $R$ can no longer be defined for this system.</p>
-</li>
-<li><p>(c) (5 points) Consider a pulse injection at the inlet ($x=0$) with duration $t_0$. Qualitatively describe how the breakthrough curve at a fixed observation point changes as:</p>
+<li><p>(30 points) Richards assumptions and Richards equation.</p>
 <ul>
-<li>$k \to \infty$</li>
-<li>$k \to 0$</li>
-</ul>
-<p>On the same plot, also sketch the breakthrough curve with equilibrium sorption. In your answer, discuss peak arrival time, tailing, and mass recovery.</p>
-</li>
-<li><p>(d) (5 points) Briefly explain why kinetic sorption often produces long late-time tails in breakthrough curves, even when dispersion is small.</p>
-</li>
-</ul>
-</li>
-<li><p>(20 points) Use the notebook <code>Resources-&gt;Numerical solution for solute transport [Jupyter Notebook]</code> on the <a href="https://boguoporousmedia.github.io/HWRS561b-2026Spring/resource/">GitHub website</a> to investigate one-dimensional solute transport in a finite domain. For all parts below, include your modified parameter values, plots, and concise interpretation.</p>
-<ul>
-<li>(a) (5 points) Baseline and boundary condition effect:<ul>
-<li>Start from the default settings in the notebook.</li>
-<li>Run one case with <code>bc_type = 'concentration'</code> and one case with <code>bc_type = 'flux'</code> (all other parameters unchanged).</li>
-<li>Plot normalized outlet breakthrough curves ($C/C_0$ at $x=L$) versus pore volumes on the same figure and compare peak concentration and arrival behavior.</li>
-</ul>
-</li>
-<li>(b) (5 points) Dispersion sensitivity:<ul>
-<li>Set <code>sorption_type = 'none'</code> and <code>use_two_site = False</code>.</li>
-<li>Run at least three dispersion values (for example, low, medium, high $D$ while keeping $L$ and $v$ fixed).</li>
-<li>Compare how increasing $D$ changes early breakthrough, curve steepness, and tailing at the outlet.</li>
-</ul>
-</li>
-<li>(c) (5 points) Equilibrium sorption model comparison:<ul>
-<li>Keep transport parameters fixed and run <code>sorption_type = 'none'</code>, <code>'linear'</code>, <code>'freundlich'</code>, and <code>'langmuir'</code> with <code>use_two_site = False</code>.</li>
-<li>On one figure, compare outlet breakthrough curves and rank the four cases by apparent retardation (earliest to latest mean arrival).</li>
-<li>Briefly explain whether differences are mainly shifts in arrival time, shape changes, or both.</li>
-</ul>
-</li>
-<li>(d) (5 points) Kinetic two-site effects:<ul>
-<li>Choose one equilibrium isotherm (<code>'linear'</code>, <code>'freundlich'</code>, or <code>'langmuir'</code>) and turn on <code>use_two_site = True</code>.</li>
-<li>Compare at least three kinetic scenarios by changing <code>F_s</code> and/or <code>alpha_s</code> (including one case close to equilibrium behavior and one strongly kinetic case).</li>
-<li>Using linear and log-scale BTC plots, explain how kinetic sorption affects late-time tailing and mass release relative to the equilibrium-only case.</li>
-</ul>
-</li>
+<li>(a) (6 points) Starting from the two-phase air-water equations, state the key assumptions used to derive Richards equation for variably saturated water flow in the vadose zone.</li>
+<li>(b) (6 points) If the pressure in the air phase of an unsaturated soil remains essentially at atmospheric pressure, is it then reasonable to conclude that the air does not move? Why or why not? Does this type of air movement violate Richards assumptions?</li>
+<li>(c) (6 points) When deriving Richards equation, if air density cannot be considered negligible compared to water density, how would you modify Richards equation to account for that?</li>
+<li>(d) (6 points) Suppose you wish to write a mathematical model for water flow in the unsaturated zone that can also include zones of full saturation. Of the three equations (mixed, $h$-based, and $\theta$-based), which is most appropriate? Which (if any) is not appropriate? Explain your answers.</li>
+<li>(e) (6 points) Give one field scenario where Richards assumptions may fail (or become weak), and explain the expected modeling consequence.</li>
 </ul>
 </li>
 </ol>
