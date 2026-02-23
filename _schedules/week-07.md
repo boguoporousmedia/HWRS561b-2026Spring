@@ -14,4 +14,4 @@ Feb 25
 Feb 27
 : No class (Bo traveling)
 
-Lecture slides: [PDF]()
+Lecture slides: [PDF(no annotation)](../assets/lecture_slides/Macroscopic_description&porous_medium_models_wo_annotation_1.pdf), [PDF(w annotation)](../assets/lecture_slides/Macroscopic_description&porous_medium_models_w_annotation_1.pdf)
