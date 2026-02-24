@@ -15,3 +15,11 @@
 ((* block maketitle *))
 % no maketitle
 ((* endblock maketitle *))
+
+((* block bibliography *))
+\makeatletter
+\immediate\write\@auxout{\string\citation{dummy_nbconvert_ref}}
+\immediate\write\@auxout{\string\bibstyle{plain}}
+\immediate\write\@auxout{\string\bibdata{notebook}}
+\makeatother
+((* endblock bibliography *))
