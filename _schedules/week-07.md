@@ -6,10 +6,10 @@ Feb 23
 : Macroscopic descriptions of air/water distribution
 
 Feb 24
-: Special lecture: Two-phase flow. Richards' assumptions; Richards' equation.
+: Macroscopic descriptions of air/water distribution.
 
 Feb 25
-: Two-phase flow. Richards' assumptions; Richards' equation.
+: Macroscopic descriptions of air/water distribution.
 
 Feb 27
 : No class (Bo traveling)
