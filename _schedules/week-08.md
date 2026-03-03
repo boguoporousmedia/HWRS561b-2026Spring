@@ -17,3 +17,5 @@ Mar 6
 : Steady-state 1D unsaturated flow.
 
 Lecture slides (March 2): [PDF(no annotation)](../assets/lecture_slides/Two-phase_flow&Richards_eqn_wo_annotation_1.pdf), [PDF(w annotation)](../assets/lecture_slides/Two-phase_flow&Richards_eqn_w_annotation_1.pdf)
+
+Lecture slides (March 4): [PDF(no annotation)](../assets/lecture_slides/Two-phase_flow&Richards_eqn_wo_annotation_2.pdf), [PDF(w annotation)](../assets/lecture_slides/Two-phase_flow&Richards_eqn_w_annotation_2.pdf)
