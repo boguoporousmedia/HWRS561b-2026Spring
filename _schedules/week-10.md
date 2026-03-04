@@ -3,7 +3,7 @@ title: Week 10
 ---
 
 Mar 16
-: Steady state unsaturated flow in multiple dimensions and with heterogeneities.
+: Steady-state 1D unsaturated flow.
 
 Mar 18
 : Steady state unsaturated flow in multiple dimensions and with heterogeneities.

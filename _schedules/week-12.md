@@ -3,7 +3,7 @@ title: Week 12
 ---
 
 Mar 30
-: Transient 1D unsaturated flow. Numerical solutions of Richards equation.
+: HYDRUS-1D recorded video tutorial and excercise (no lecture)
 
 Apr 1
 : Transient 1D unsaturated flow. Numerical solutions of Richards equation.
