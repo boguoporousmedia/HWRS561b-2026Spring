@@ -4,10 +4,10 @@ module_title: "Module 3: Steady-state and transient variably saturated flow"
 ---
 
 Mar 2
-: Steady-state 1D unsaturated flow.
+: Two-phase flow and Richards Equation.
 
 Mar 4
-: Steady-state 1D unsaturated flow.
+: Two-phase flow and Richards Equation.
 
 Mar 5
 : **Homework due**
@@ -19,3 +19,5 @@ Mar 6
 Lecture slides (March 2): [PDF(no annotation)](../assets/lecture_slides/Two-phase_flow&Richards_eqn_wo_annotation_1.pdf), [PDF(w annotation)](../assets/lecture_slides/Two-phase_flow&Richards_eqn_w_annotation_1.pdf)
 
 Lecture slides (March 4): [PDF(no annotation)](../assets/lecture_slides/Two-phase_flow&Richards_eqn_wo_annotation_2.pdf), [PDF(w annotation)](../assets/lecture_slides/Two-phase_flow&Richards_eqn_w_annotation_2.pdf)
+
+Lecture slides (March 6): [PDF(no annotation)](../assets/lecture_slides/Steady-state_1D_unsat_flow_wo_annotation_1.pdf), [PDF(w annotation)](../assets/lecture_slides/Steady-state_1D_unsat_flow_w_annotation_1.pdf)
