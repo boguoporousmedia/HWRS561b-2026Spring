@@ -11,4 +11,5 @@ Mar 18
 Mar 20
 : Midterm exam (oral)
 
-Lecture slides: [PDF]()
+Lecture slides (March 16): [PDF](../assets/lecture_slides/Steady-state_1D_unsat_flow_w_annotation_2.pdf)
+

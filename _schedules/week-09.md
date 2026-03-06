@@ -10,5 +10,3 @@ Mar 11
 
 Mar 13
 : No class: Spring break
-
-Lecture slides: [PDF]()

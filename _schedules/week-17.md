@@ -3,10 +3,10 @@ title: Week 17
 ---
 
 May 4
-: Review.
+: Review (no lecture)
 
 May 6
-: Review.
+: Review (no lecture)
 
 May 8
 : Final exam.
