@@ -4,4 +4,4 @@ title: "Lecture #21: Steady state unsaturated flow in multiple dimensions and wi
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Mar 18, 2:00 pm – 2:50 pm (Bo Guo)
 
-- [Recording: [Video]]()
+- [Recording: [Video]](https://arizona.zoom.us/rec/share/OXcn-_-T5xfj_-jirjiA5hW07ifd5b-tBqfLYliTDteQyEFd6HSOybKfb2xe5iAO.oAuIgU_34Sk9dVqX)
