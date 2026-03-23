@@ -15,4 +15,4 @@ Mar 26
 Mar 27
 : Transient 1D unsaturated flow. Simplified models (Green-Ampt, Philip's models).
 
-Lecture slides: [PDF]()
+Lecture slides (March 23): [PDF](../assets/lecture_slides/Transient_1D_unsat_flow_wo_annotation_2.pdf)
