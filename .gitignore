@@ -9,3 +9,4 @@ node_modules/
 vendor/
 /exams/
 **/*_answers.*
+assets/homework/homework4_answers.ipynb

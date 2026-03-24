@@ -8,11 +8,9 @@ Mar 23
 Mar 25
 : Transient 1D unsaturated flow. Simplified models (Green-Ampt, Philip's models).
 
-Mar 26
-: **Homework due**
-: **Due**{: .label .label-purple} HW 4: Richards equation and steady-state unsaturated flow
-
 Mar 27
 : Transient 1D unsaturated flow. Simplified models (Green-Ampt, Philip's models).
 
 Lecture slides (March 23): [PDF](../assets/lecture_slides/Transient_1D_unsat_flow_wo_annotation_2.pdf)
+
+Homework 4: [PDF]({{ "/assets/homework/homework4.pdf" | relative_url }}), <a href='{{ "/assets/homework/homework4.ipynb" | relative_url }}' download='homework4.ipynb'>Jupyter Notebook</a>
