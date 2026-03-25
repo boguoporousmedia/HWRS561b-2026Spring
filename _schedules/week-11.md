@@ -13,4 +13,6 @@ Mar 27
 
 Lecture slides (March 23): [PDF](../assets/lecture_slides/Transient_1D_unsat_flow_wo_annotation_2.pdf)
 
+Lecture slides (March 25 & 27): [PDF](../assets/lecture_slides/Transient_1D_unsat_flow_wo_annotation_3.pdf)
+
 Homework 4: [PDF]({{ "/assets/homework/homework4.pdf" | relative_url }}), <a href='{{ "/assets/homework/homework4.ipynb" | relative_url }}' download='homework4.ipynb'>Jupyter Notebook</a>
