@@ -10,7 +10,7 @@ Apr 22
 
 Apr 23
 : **Homework due**
-: **Due**{: .label .label-purple} HW 6: Contaminant transport
+: **Due**{: .label .label-purple} HW 5: Contaminant transport
 
 Apr 24
 : Transport of PFAS in the vadose zone.
