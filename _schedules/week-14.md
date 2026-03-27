@@ -9,6 +9,10 @@ Apr 13
 Apr 15
 : Transport of pesticides/nutrients in the vadose zone.
 
+Apr 16
+: **Homework due**
+: **Due**{: .label .label-purple} HW 5: Use Hydrus-1D to understand unsat flow
+
 Apr 17
 : Transport of pesticides/nutrients in the vadose zone.
 
