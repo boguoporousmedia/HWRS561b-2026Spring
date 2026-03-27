@@ -3,7 +3,7 @@ title: Week 13
 ---
 
 Apr 6
-: Unsaturated flow in multidimensions.
+: Inverse modeling using HYDRUS-1D
 
 Apr 8
 : Unsaturated flow in multidimensions.

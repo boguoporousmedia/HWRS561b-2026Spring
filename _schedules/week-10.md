@@ -6,7 +6,7 @@ Mar 16
 : Steady-state 1D unsaturated flow.
 
 Mar 18
-: Transient 1D unsaturated flow. 
+: Transient 1D unsaturated flow. Scenario analysis. 
 
 Mar 20
 : Midterm exam (oral)
