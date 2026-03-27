@@ -15,4 +15,4 @@ April 2
 Apr 3
 : Inverse modeling using HYDRUS-1D
 
-Lecture slides: [PDF]()
+Lecture slides (March 30): [PDF](../assets/lecture_slides/Transient_1D_unsat_flow_4(HYDRUS_exercise).pdf)
