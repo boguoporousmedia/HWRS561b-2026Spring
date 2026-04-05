@@ -4,16 +4,16 @@ module_title: "Module 4: Risk assessment of contaminant transport in the vadose 
 ---
 
 Apr 13
-: Transport of pesticides/nutrients in the vadose zone.
+: Transport of PFAS in the vadose zone.
 
 Apr 15
-: Transport of pesticides/nutrients in the vadose zone.
+: Transport of PFAS in the vadose zone.
 
 Apr 16
 : **Homework due**
 : **Due**{: .label .label-purple} HW 5: Use Hydrus-1D to understand unsat flow
 
 Apr 17
-: Transport of pesticides/nutrients in the vadose zone.
+: Transport of PFAS in the vadose zone.
 
 Lecture slides: [PDF]()
