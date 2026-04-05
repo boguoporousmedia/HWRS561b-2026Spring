@@ -18,3 +18,5 @@ Apr 3
 Lecture slides (March 30 and April 1): [PDF](../assets/lecture_slides/Transient_1D_unsat_flow_4(HYDRUS_exercise).pdf)
 
 Lecture slides (April 3): [PDF](../assets/lecture_slides/Inverse_modeling.pdf)
+
+Homework 5: [PDF]({{ "/assets/homework/homework5.pdf" | relative_url }}), <a href='{{ "/assets/homework/homework5.ipynb" | relative_url }}' download='homework5.ipynb'>Jupyter Notebook</a>
