@@ -11,6 +11,6 @@ Apr 8
 Apr 10
 : Solute transport with unsaturated flow.
 
-Lecture slides: [PDF]()
+Lecture slides (April 6): [PDF](../assets/lecture_slides/Inverse_modeling_2.pdf)
 
 Homework 5: [PDF]({{ "/assets/homework/homework5.pdf" | relative_url }}), <a href='{{ "/assets/homework/homework5.ipynb" | relative_url }}' download='homework5.ipynb'>Jupyter Notebook</a>
