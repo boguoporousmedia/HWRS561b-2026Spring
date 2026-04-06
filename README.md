@@ -13,7 +13,7 @@
 
 > **Bo Guo** (he/him)
 >
-> Office hours: Monday 1:00 - 2:00 pm, Harshbarger 316F
+> Office hours: Wednesday 1:00 - 2:00 pm, Harshbarger 316F
 >
 > E-mail: <a href="mailto:boguo@arizona.edu">boguo@arizona.edu</a>
 >
