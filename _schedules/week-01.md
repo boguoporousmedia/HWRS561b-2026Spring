@@ -6,7 +6,7 @@ module_title: "Module 1: Solute transport in saturated media"
 Jan 13
 : Field trip - No class
 
-Jan 16
+Jan 15
 : Field trip - No class
 
 Lecture slides: [None]
